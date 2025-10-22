@@ -1,20 +1,20 @@
 # 🌐 ConectaBem
 
 O **ConectaBem** é uma plataforma web desenvolvida para aproximar **ONGs** de **pessoas interessadas em ajudar** através de ações sociais e voluntariado.  
-Este projeto foi realizado como atividade prática da disciplina de **Front-End** para aplicação dos conceitos de desenvolvimento web, seguindo uma evolução em **4 etapas**.
+Este projeto foi realizado como atividade prática da disciplina de **Front-End**, seguindo uma evolução em **4 etapas**, utilizando HTML, CSS, JavaScript e Git/GitHub.
 
 ---
 
 ## ✅ Etapas do Projeto
 
-O projeto foi desenvolvido de forma progressiva, conforme solicitado, com versionamento e organização no GitHub a cada etapa concluída.
+O desenvolvimento do projeto foi dividido em etapas progressivas, conforme solicitado:
 
-| Etapa | Descrição | Tecnologias usadas | Status |
-|-------|-----------|--------------------|---------|
-| 1 | Estrutura básica em HTML | HTML5 | ✅ Finalizado |
-| 2 | Estilização das páginas | CSS3 | ✅ Finalizado |
-| 3 | Funcionalidades | JavaScript | ✅ Finalizado |
-| 4 | Versionamento e Documentação | Git e GitHub | ✅ Finalizado |
+| Etapa | Descrição | Status |
+|-------|-----------|--------|
+| 1 | Estrutura básica em HTML | ✅ Finalizado |
+| 2 | Estilização com CSS | ✅ Finalizado |
+| 3 | Funcionalidades em JavaScript | ✅ Finalizado |
+| 4 | Versionamento e documentação | ✅ Finalizado |
 
 ---
 
@@ -30,69 +30,66 @@ conectabem/
 ├── js/
 │ └── script.js
 ├── img/
-│ └── logo.png
+│ ├── logo.png
 │ └── hero-placeholder.png
 └── README.md
+
 ---
 
 ## 💻 Descrição por Etapa
 
 ### ✅ Etapa 1 – HTML
+- Estruturação das páginas com HTML semântico
+- Organização em seções reutilizáveis (header, footer, main)
 - Criação das páginas:
-  - `index.html` – página inicial
-  - `projetos.html` – lista de projetos sociais
-  - `cadastro.html` – formulário de voluntariado
-- Uso de estrutura semântica e organização em seções
-- Cabeçalho e rodapé reutilizados
-
----
+  - `index.html`
+  - `projetos.html`
+  - `cadastro.html`
 
 ### 🎨 Etapa 2 – CSS
-- Estilização com design moderno
-- Paleta de cores coerente
-- Botões, layout responsivo e navegação
-- Organização com `reset.css` + `style.css`
-
----
+- Criação do layout responsivo
+- Aplicação de cores, espaçamento e tipografia
+- Estilização com `reset.css` e `style.css`
 
 ### ⚙️ Etapa 3 – JavaScript
 - Validação do formulário de cadastro
-- Mensagens de sucesso/erro
-- Sistema simples de busca de projetos
-- Simulação de dados dinâmica na página de projetos
-
----
+- Busca e interação com elementos na página de projetos
+- Estrutura de funções no arquivo `script.js`
 
 ### 🔧 Etapa 4 – Versionamento
-- Organização correta no GitHub
-- Uso de commits semânticos
-- Tags para entrega das etapas:
+- Uso do Git para controle de versão
+- Commits organizados
+- Criação de tags para cada entrega:
   - `v1.0-etapa1`
   - `v2.0-etapa2`
   - `v3.0-etapa3`
   - `v4.0-etapa4`
-- Documento README finalizado
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
-
 - HTML5  
 - CSS3  
 - JavaScript  
-- Git e GitHub  
+- Git & GitHub  
 
 ---
 
-## 📌 Objetivo do Projeto
+## 🔗 Link do Projeto Online
+O site está publicado e pode ser acessado aqui:
 
-Criar uma solução acessível para conectar ONGs e pessoas que desejam contribuir com causas sociais, incentivando o voluntariado com tecnologia simples e acessível.
+👉 https://gCASSYs.github.io/conectabem/
 
 ---
 
-## 📥 Como Executar
-git status
+## 📥 Como Clonar o Projeto
+Se quiser copiar este projeto para sua máquina, use:
 
-1. Baixe ou clone este repositório:
-   ```bash
-   git clone https://github.com/gCASSYs/conectabem.git
+```bash
+git clone https://github.com/gCASSYs/conectabem.git
+
+✍️ Autora
+
+Gabriele dos Santos Cassiano
+Universidade Cruzeiro do Sul – 1º Semestre
+Disciplina de Front-End
