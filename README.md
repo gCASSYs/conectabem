@@ -91,6 +91,7 @@ Criar uma solução acessível para conectar ONGs e pessoas que desejam contribu
 ---
 
 ## 📥 Como Executar
+git status
 
 1. Baixe ou clone este repositório:
    ```bash
